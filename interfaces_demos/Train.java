@@ -14,10 +14,10 @@ public class Train implements Drivable {
 	}
 	
 	public void moveAround() {
-        System.out.println("Engaging pistons... Moving many wheels...");
-    }
+		System.out.println("Engaging pistons... Moving many wheels...");
+	}
 	
-    public void makeSignalNoise() {
-        System.out.println("Toot!");
-    }
+	public void makeSignalNoise() {
+		System.out.println("Toot!");
+	}
 }
